@@ -32,4 +32,26 @@
     margin-right: 10px;
 }
 
+#header-img {
+    width: 100%;
+    text-align: center;
+}
 
+#subheader {
+    overflow: hidden;
+    text-align: center;
+}
+
+#subheader #home-image {
+    float: left;
+    width: 45%;
+}
+
+#subheader #home-text {
+    float: right;
+    width: 45%;
+}
+
+#subheader p {
+    padding: 20px;
+}
