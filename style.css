@@ -44,12 +44,12 @@
 
 #subheader #home-image {
     float: left;
-    width: 45%;
+    width: 30%;
 }
 
 #subheader #home-text {
     float: right;
-    width: 45%;
+    width: 60%;
 }
 
 #subheader p {
