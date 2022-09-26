@@ -1,0 +1,35 @@
+#header {
+    background-color: pink;
+    width: 1280px;
+    margin: 0 auto;
+    height: 40px;
+    overflow: hidden;
+}
+
+#header h2 {
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#left {
+    float: left;
+}
+
+#right {
+    float: right;
+}
+
+
+#header ul {
+    text-align: right;
+    color: white;
+    list-style-type: none;
+}
+
+#header ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
